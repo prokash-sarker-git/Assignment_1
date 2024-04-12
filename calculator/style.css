@@ -1,0 +1,9 @@
+.container {
+    margin-top: 50px;
+  }
+  .invalid{
+    color: red;
+  }
+  .output{
+    font-size: 20px;
+  }
